@@ -1,0 +1,24 @@
+{
+  "name": "@datql/react-app",
+  "version": "0.0.0",
+  "description": "a react app demonstrating datql data binding",
+  "main": "index.js",
+  "scripts": {
+    "start": "builder run frontend:watch",
+    "test": "builder run npm:test",
+    "lint": "builder run lint",
+    "build": "builder run frontend:build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diffalot/datql/frontends/react-app"
+  },
+  "author": "Alice Davis",
+  "license": "ISC",
+  "dependencies": {
+    "builder": "^4.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {}
+}

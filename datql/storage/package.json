@@ -1,0 +1,11 @@
+{
+  "name": "@datql/storage",
+  "version": "0.0.0",
+  "description": "in memory or on disk addressable persistant storage with no idea of what it is storing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Forsythe <alice@gigantic.computer>",
+  "license": "ISC"
+}

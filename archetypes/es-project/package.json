@@ -1,0 +1,31 @@
+{
+  "name": "@datql/es-project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "npm:test": "echo \"Error: no test specified\"",
+    "lint": "eslint --color -c node_modules/@datql/es-project/.eslintrc.json ./",
+    "frontend:watch": "node_modules/@datql/es-project/node_modules/.bin/parcel index.html",
+    "frontend:build": "node_modules/@datql/es-project/node_modules/.bin/parcel build index.html"
+  },
+  "author": "Alice Davis <alice@gigantic.computer>",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^8.1.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.18.2",
+    "eslint-config-cleanjs": "^4.0.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-better": "^0.1.5",
+    "eslint-plugin-fp": "^2.3.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "parcel-bundler": "^1.6.2",
+    "postcss-modules": "^1.1.0"
+  }
+}

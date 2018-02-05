@@ -1,0 +1,11 @@
+{
+  "name": "@datql/cache",
+  "version": "0.0.0",
+  "description": "a data cache that queries hyperdb indexes and stores results, hopefully before they're needed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Forsythe <alice@gigantic.computer>",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@datql/indexer",
+  "version": "0.0.0",
+  "description": "watches data streams of records and indexes them to hyperdbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Forsythe <alice@gigantic.computer>",
+  "license": "ISC"
+}
