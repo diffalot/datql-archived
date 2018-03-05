@@ -1,6 +1,6 @@
 {
   "name": "@datql/react-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a react app demonstrating datql data binding",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
 }

@@ -1,10 +1,11 @@
 {
   "name": "@datql/es-project",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "npm:test": "echo \"Error: no test specified\"",
+    "test": "echo no-test",
+    "npm:test": "echo no-test",
     "lint": "eslint --color -c node_modules/@datql/es-project/.eslintrc.json ./",
     "frontend:watch": "node_modules/@datql/es-project/node_modules/.bin/parcel index.html",
     "frontend:build": "node_modules/@datql/es-project/node_modules/.bin/parcel build index.html"
