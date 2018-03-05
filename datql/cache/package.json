@@ -1,6 +1,6 @@
 {
   "name": "@datql/cache",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a data cache that queries hyperdb indexes and stores results, hopefully before they're needed",
   "main": "index.js",
   "scripts": {

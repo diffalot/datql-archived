@@ -1,6 +1,6 @@
 {
   "name": "@datql/keychain",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "keypair storage for p2p encrypted networking and messaging",
   "main": "index.js",
   "scripts": {

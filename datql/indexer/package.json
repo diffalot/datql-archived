@@ -1,6 +1,6 @@
 {
   "name": "@datql/indexer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "watches data streams of records and indexes them to hyperdbs",
   "main": "index.js",
   "scripts": {

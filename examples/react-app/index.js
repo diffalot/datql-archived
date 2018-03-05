@@ -6,5 +6,4 @@ const HelloMessage = props => {
 }
 
 const mountNode = document.getElementById('app')
-
-export default ReactDOM.render(<HelloMessage name="Jane" />, mountNode)
+export default ReactDOM.render(<HelloMessage name="Alice" />, mountNode)

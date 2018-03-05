@@ -1,6 +1,6 @@
 {
   "name": "@datql/keypairs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "DH key generation and exchange algorythms",
   "main": "index.js",
   "scripts": {

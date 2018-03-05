@@ -1,6 +1,6 @@
 {
   "name": "@datql/storage",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "in memory or on disk addressable persistant storage with no idea of what it is storing",
   "main": "index.js",
   "scripts": {

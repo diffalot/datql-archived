@@ -2,7 +2,9 @@
   "lerna": "2.8.0",
   "packages": [
     "archetypes/*",
-    "datql/*"
+    "datql/*",
+    "tests/*",
+    "examples/*"
   ],
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
