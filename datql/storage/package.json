@@ -4,7 +4,7 @@
   "description": "in memory or on disk addressable persistant storage with no idea of what it is storing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo no-test"
   },
   "author": "Alice Forsythe <alice@gigantic.computer>",
   "license": "ISC"
