@@ -1,11 +1,11 @@
 {
-  "name": "@datql/indexer",
+  "name": "@datq.lol/indexer",
   "version": "0.0.1",
   "description": "watches data streams of records and indexes them to hyperdbs",
   "main": "index.js",
   "scripts": {
     "test": "echo no-test"
   },
-  "author": "Alice Forsythe <alice@gigantic.computer>",
+  "author": "Alice Davis <alice@gigantic.computer>",
   "license": "ISC"
 }

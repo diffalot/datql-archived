@@ -1,5 +1,6 @@
 {
-  "name": "@datql/integration-tests",
+  "name": "@datq.lol/integration-tests",
+  "private": true,
   "version": "0.0.1",
   "description": "",
   "main": "index.js",

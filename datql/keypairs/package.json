@@ -1,11 +1,11 @@
 {
-  "name": "@datql/keypairs",
+  "name": "@datq.lol/keypairs",
   "version": "0.0.1",
   "description": "DH key generation and exchange algorythms",
   "main": "index.js",
   "scripts": {
     "test": "echo no-test"
   },
-  "author": "Alice Forsythe <alice@gigantic.computer>",
+  "author": "Alice Davis <alice@gigantic.computer>",
   "license": "ISC"
 }

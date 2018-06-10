@@ -1,5 +1,6 @@
 {
-  "name": "@datql/react-app",
+  "name": "@datq.lol/react-app",
+  "private": true,
   "version": "0.0.1",
   "description": "a react app demonstrating datql data binding",
   "main": "index.js",

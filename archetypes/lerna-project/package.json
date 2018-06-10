@@ -1,0 +1,25 @@
+{
+  "name": "@datq.lol/lerna-project",
+  "private": true,
+  "version": "0.0.0",
+  "description": "builder scripts for lerna projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diffalot/datq.lol.git"
+  },
+  "keywords": [
+    "dat",
+    "graphql",
+    "p2p"
+  ],
+  "author": "Alice Davis <alice@gigantic.computer>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diffalot/datql/issues"
+  },
+  "homepage": "https://github.com/diffalot/datql#readme"
+}

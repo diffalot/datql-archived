@@ -1,11 +1,11 @@
 {
-  "name": "@datql/keychain",
+  "name": "@datq.lol/keychain",
   "version": "0.0.1",
   "description": "keypair storage for p2p encrypted networking and messaging",
   "main": "index.js",
   "scripts": {
     "test": "echo no-test"
   },
-  "author": "Alice Forsythe <alice@gigantic.computer>",
+  "author": "Alice Davis <alice@gigantic.computer>",
   "license": "ISC"
 }
