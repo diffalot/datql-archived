@@ -1,7 +1,0 @@
-{
-  "rules": {
-    "react/prop-types": 0
-  },
-  "plugins": ["react"],
-  "extends": ["cleanjs", "standard", "plugin:react/recommended"]
-}
